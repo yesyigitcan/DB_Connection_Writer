@@ -1,6 +1,6 @@
 Packages:
 
-tkinter
-json
-cryptography
+tkinter,
+json,
+cryptography,
 cx_Oracle
