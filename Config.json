@@ -1,0 +1,35 @@
+{
+    "KEY_NAME" :  "Key.key",
+    "KEY_PATH" : "CURRENT",
+    "TARGET_TABLE_DETAIL" : "###############" ,
+    "TARGET_TABLE" : "###############",
+    "COLUMNS" : [
+        "CON_NAME",
+        "CONTEXT_NAME",
+        "CON_STRING",
+        "TECNOLOGY",
+        "USER_NAME",
+        "USER_PWD",
+        "CREATE_TIME (ddmmyyyy)",
+        "UPDATE_TIME (ddmmyyyy)",
+        "VALID (Y or N)"
+    ],
+    "DB_COLUMNS" : [
+        "CON_NAME",
+        "CON_DESCRIPTION"
+    ],
+    "DB_COLUMNS_DETAIL" : [
+        "CON_NAME",
+        "CONTEXT_NAME",
+        "CON_STRING",
+        "TECNOLOGY",
+        "USER_NAME",
+        "USER_PWD",
+        "CREATE_TIME",
+        "UPDATE_TIME",
+        "VALID"
+    ],
+    "ENCRYPTED_COLUMNS": [
+        5
+    ]
+}
