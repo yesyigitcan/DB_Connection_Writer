@@ -263,16 +263,5 @@ if __name__ == '__main__':
     window.mainloop()
     logging.info("Program terminated..")
     sys.exit(0)
-    '''
-    CON_NAME      VARCHAR2(30),
- CONTEXT_NAME  VARCHAR2(30),
- CON_STRING    VARCHAR2(500),
- TECNOLOGY     VARCHAR2(50),
- USER_NAME     VARCHAR2(30),
- USER_PWD      VARCHAR2(30),
- CREATE_TIME   DATE,
- UPDATE_TIME   DATE,
- VALID         VARCHAR2(1) --Y,N,
-    '''
 
     
